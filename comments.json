@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1421234950003,
+    "author": "Chris Lee",
+    "text": "React IS great."
+  },
+  {
+    "id": 1421234950004,
+    "author": "Someone Else",
+    "text": "Does JavaScript actually have classes?"
+  },
+  {
+    "id": 1421234950005,
+    "author": "Wise One",
+    "text": "I think it's just syntactical sugar."
+  },
+  {
+    "id": 1456912567256,
+    "author": "Another Wise One",
+    "text": "Everyone shutup"
+  }
+]
