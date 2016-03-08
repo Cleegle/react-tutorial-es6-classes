@@ -23,7 +23,6 @@
     "body-parser": "^1.15.0",
     "css-loader": "^0.23.1",
     "express": "^4.13.4",
-    "jquery": "^2.2.1",
     "node-sass": "^3.4.2",
     "open": "0.0.5",
     "postcss-loader": "^0.8.1",
